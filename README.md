@@ -1,3 +1,10 @@
+Aplikasi ini dibuat fullstack dengan CodeIginiter 4
+untuk memenuhi Assestment Test Programmer GCI
+
+template yang digunakan : https://getstisla.com/
+
+Library yang digunakan : dataTable, ChartJS
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
