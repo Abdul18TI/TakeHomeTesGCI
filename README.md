@@ -5,6 +5,8 @@ template yang digunakan : https://getstisla.com/
 
 Library yang digunakan : dataTable, ChartJS
 
+oleh : Abdul Arif Pratama
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
