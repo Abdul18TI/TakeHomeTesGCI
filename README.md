@@ -5,6 +5,8 @@ template yang digunakan : https://getstisla.com/
 
 Library yang digunakan : dataTable, ChartJS
 
+Database berada di folder DB dengan nama tes
+
 oleh : Abdul Arif Pratama
 
 # CodeIgniter 4 Application Starter
